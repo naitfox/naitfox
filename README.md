@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Swastik (@naitfox)
-- 👀 I’m interested in Artificial Intelligence and Robotics
-- 🌱 I’m currently learning more about the domains
+
 - 📫 How to reach me: swastikj.nits@gmail.com
 
 <!---
