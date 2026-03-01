@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Swastik (@naitfox)
+- 👋 Hi, I’m Jena (@naitfox)
 
 - 📫 How to reach me: swastikj.nits@gmail.com
 
